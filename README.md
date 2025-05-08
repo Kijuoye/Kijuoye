@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **Software analyst at ADIC - IIC**
 
-- 🌱 I’m currently interested in **Angular framework, Python development, application containeraztion and cloud services**
+- 🌱 I’m currently interested in **Angular framework, Python development, application containerization and cloud services**
 
 - 📫 How to reach me **oryegros@gmail.com**
 
